@@ -1,5 +1,5 @@
 # dx699_milestone1
-Files for BU DX699 milestone one
+Files for BU DX699 milestone one.  Note that the numbered items are those that are required by the course/rubric.
 
 - [1 - Journal - dcox](https://github.com/tzucker02/dx699_milestone1/blob/main/ModB-week6-Zucker-Scharff%20-%20journal.docx)
 - [2 - Team contract - PDF](https://github.com/tzucker02/dx699_milestone1/blob/main/Module%20B%2001%20Team%20Contract.pdf)
